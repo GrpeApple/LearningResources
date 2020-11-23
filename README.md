@@ -93,7 +93,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html): Google Java Style Guide
 - [Rust Coding style](https://github.com/rust-dev-tools/fmt-rfcs): Rust code formatting RFCs and coding style guides 
 - [Art of README](https://github.com/noffle/art-of-readme) : This is a guide about READMEs. About what they do, why they are an absolute necessity, and how to craft them well.
- 
+- [Material Design](https://material.io/resources/get-started) : Design system created By google to help teams build high-quality digital experience.
 
 
 ### Must-Read Books to be developers or problem solver :closed_book: :notebook_with_decorative_cover:
@@ -101,6 +101,13 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
   - [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073) : This book, by Robert C. Martin, is packed with practical advice–about everything from estimating and coding to refactoring and testing. It covers much more than technique: It is about attitude. 
   - [The Pragmatic Programmer: From Journeyman to Master (Old Edition)](https://www.amazon.in/Pragmatic-Programmer-Journeyman-Master-Old/dp/020161622X) : The Pragmatic Programmer illustrates the best practices and major pitfalls of many different aspects of software development. **I will pay you, if you feel it's not worth spending money on.**
   - [The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography](https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323) : The Code Book tells the story of the most powerful intellectual weapon ever known: secrecy. Simon Singh offers the first sweeping history of encryption, tracing its evolution and revealing the dramatic effects codes have had on wars, nations, and individual lives.
+  - [Microservice: From Design To Deployment](https://drive.google.com/file/d/1J1et2R03AOADBUvkSLo_lBFTicgMvPg6/view?usp=sharing) : This book, by Chris Richardson
+with Floyd Smith(Nginx), is having set of articles which contain information about implementing microservices.
+
+###  Open APIs :
+- [Public API's](https://github.com/public-apis/public-apis#development) : Github Link for all the popular public API's.
+- [REQ | RES](https://reqres.in/) : Hosted REST-API ready to respond to your AJAX requests.
+- [CountAPI](https://countapi.xyz/) :  This API allows you to create simple numeric counters. IaaS, Integer as a Service.
 
 
 

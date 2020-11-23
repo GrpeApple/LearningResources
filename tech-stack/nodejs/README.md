@@ -38,7 +38,9 @@
   - [Why Asynchronous?](https://nodesource.com/blog/why-asynchronous/) : Defining "Asynchronous Programming"
   - [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop/) : This post will shed light on how the event loop operates so you too can enjoy the magic.
   - [Understanding Object Streams](https://nodesource.com/blog/understanding-object-streams/) : This article will explain what exactly object streams are, how they behave in contrast to regular streams, and how we can use them ourselves.
+  - [Using Express to Quickly Build a GraphQL Server](https://snipcart.com/blog/graphql-nodejs-express-tutorial) : Craft a GraphQL server using Node.js Express
   
+
 - #### Cheat Sheets
   - [Express.js 4 Cheatsheet](https://github.com/azat-co/cheatsheets/tree/master/express4) : Beautifully-designed print-ready PDF
   - [Strong Node.js](https://github.com/jesusprubio/strong-node) : Exhaustive checklist to assist in a security review of a Node.js web service code.
@@ -52,5 +54,7 @@
   - [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) : Node is one of the Succinctly Series On The Go (email address *requested*, not required)
   - [Practical Node.js: Building Real-World Scalable Web Apps](https://github.com/azat-co/practicalnode) : Practical Node.js, 1st and 2nd Editions [Apress] 
   - [The Node Beginner Book](http://nodebeginner.org) : Book to get you started with developing applications with Node.js, teaching you everything you need to know about "advanced" JavaScript along the way
+  - [Node.js Design Patterns by Mario Casciaro](https://github.com/PacktPublishing/Node.js_Design_Patterns_Second_Edition_Code) :  Book Advanced level on Node.js Design Patterns 
+  
 
 
